@@ -7,3 +7,5 @@ Original code was made for python2.
 This code is for python3.
 
 for usb webcams, change 'cap = cv2.VideoCapture(0)' - from 0 to 1
+![Uploading ezgif-4-35a6bf4b41.gif…]()
+![Uploading ezgif-6-b2771dda66.gif…]()
